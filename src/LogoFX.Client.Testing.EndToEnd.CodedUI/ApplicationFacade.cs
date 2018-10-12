@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UITesting;
 
 namespace LogoFX.Client.Testing.EndToEnd.CodedUI
 {
-    class ApplicationFacade : IApplicationFacade
+    public sealed class ApplicationFacade : IApplicationFacade
     {
         public void Start(string startupPath)
         {
