@@ -1,4 +1,4 @@
-﻿using LogoFX.Client.Testing.Contracts;
+﻿using Attest.Testing.Contracts;
 using Microsoft.VisualStudio.TestTools.UITesting;
 
 namespace LogoFX.Client.Testing.EndToEnd.CodedUI
